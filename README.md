@@ -1,7 +1,7 @@
 vithKF
 ======
 
-Helper utility the game Killing Floor. Borderless fullscreen windowed mode, crosshair, and windowed mode gamma correction.
+Tweaks for the game Killing Floor. Borderless fullscreen windowed mode, custom crosshair, and windowed mode gamma correction.
 
 ![vithKF GUI screenshot](http://i.imgur.com/nJnWiX6.png)
 
